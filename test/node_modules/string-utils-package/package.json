@@ -1,0 +1,15 @@
+{
+  "name": "string-utils-package",
+  "version": "1.0.0",
+  "description": "Package of utils for strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "utils"
+  ],
+  "author": "Magna",
+  "license": "ISC"
+}
